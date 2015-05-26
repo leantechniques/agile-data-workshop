@@ -10,7 +10,8 @@ mysql> create database customer_dev;
 mysql> grant all on customer_dev.* to agiledba@localhost identified by 'p@ssw0rd';
 ```
 
-LAB EXERCISES:
+# LAB EXERCISES:
+
 1. Add new migration to indicate preferred customers
   - the view should only display preferred customers
   - existing customers are preferred
