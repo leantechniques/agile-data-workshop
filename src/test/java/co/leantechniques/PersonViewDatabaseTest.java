@@ -1,9 +1,8 @@
-package net.timandersen;
+package co.leantechniques;
 
-import net.timandersen.model.Person;
-import net.timandersen.model.Phone;
-import net.timandersen.repository.PersonRepository;
-import net.timandersen.util.SpringContextWrapper;
+import co.leantechniques.model.Person;
+import co.leantechniques.model.Phone;
+import co.leantechniques.repository.PersonRepository;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -11,7 +11,7 @@
     </bean>
 
     <!--Scans within the base package of the application for @Components to configure as beans -->
-    <context:component-scan base-package="net.timandersen"/>
+    <context:component-scan base-package="co.leantechniques"/>
     <context:annotation-config/>
 
 
@@ -74,7 +74,7 @@
         <property name="configLocation" value="classpath:hibernate.cfg.xml"/>
         <property name="packagesToScan">
             <list>
-                <value>net.timandersen.model</value>
+                <value>co.leantechniques.model</value>
             </list>
         </property>
     </bean>

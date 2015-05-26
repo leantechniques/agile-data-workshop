@@ -1,6 +1,6 @@
-package net.timandersen.repository;
+package co.leantechniques.repository;
 
-import net.timandersen.model.Person;
+import co.leantechniques.model.Person;
 import org.hibernate.Query;
 import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;

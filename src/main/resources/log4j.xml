@@ -9,7 +9,7 @@
         </layout>
     </appender>
 
-    <logger name="net.timandersen" additivity="false">
+    <logger name="co.leantechniques" additivity="false">
         <level value="error"/>
         <appender-ref ref="console"/>
     </logger>

@@ -1,4 +1,4 @@
-package net.timandersen.model;
+package co.leantechniques.model;
 
 import org.hibernate.annotations.*;
 import org.hibernate.annotations.CascadeType;

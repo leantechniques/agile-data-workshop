@@ -1,4 +1,4 @@
-package net.timandersen.model;
+package co.leantechniques.model;
 
 import javax.persistence.*;
 

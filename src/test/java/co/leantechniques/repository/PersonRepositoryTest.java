@@ -1,6 +1,6 @@
-package net.timandersen.repository;
+package co.leantechniques.repository;
 
-import net.timandersen.model.Person;
+import co.leantechniques.model.Person;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
