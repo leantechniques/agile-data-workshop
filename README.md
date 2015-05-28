@@ -26,7 +26,7 @@ mysql> grant all on customer_dev.* to agiledba@localhost identified by 'p@ssw0rd
 ```
 $ mysql -u root -p
 mysql> create database customer_test;
-mysql> grant all on customer_test.* to agiledba@localhost identified by 'pa$$w3!rd';
+mysql> grant all on customer_test.* to sysdba@localhost identified by 'pa$$w3!rd';
 ```
 
 ```
