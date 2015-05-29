@@ -136,7 +136,7 @@
                 <executions>
                     <execution>
                         <id>flyway database migration</id>
-                        <phase>pre-integration-test</phase>
+                        <phase>process-test-resources</phase>
                         <goals>
                             <goal>clean</goal>
                             <goal>baseline</goal>
